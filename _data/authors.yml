@@ -108,6 +108,7 @@ active-authors:
   - mnyamunda
   - mrichards
   - mridene
+  - mthomas
   - mwallace
   - mwalkerrose
   - nbetts
@@ -755,6 +756,10 @@ authors:
   msinton:
     name: "Matt Sinton-Hewitt"
     author-summary: "<p>I'm a Senior Developer at Scott Logic. I like Functional Programming, Big Data and Machine Learning.</p>"
+    picture: picture.jpg
+  mthomas:
+    name: "Miriam Thomas"
+    author-summary: "<p>I’m a Newcastle‑based software developer who enjoys learning and experimenting with new technologies, with a particular preference for backend development.</p>"
     picture: picture.jpg
   mtinning:
     name: "Michael Tinning"
