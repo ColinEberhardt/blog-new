@@ -12,7 +12,7 @@ tags:
 summary: Rebuilding a carbon emissions calculator with  vs Copilot, where agentic
   AI speeds delivery and where human engineering remains essential.
 author: mthomas
-image: "-Perspective-.jpg"
+image: 
 ---
 
 After more than five years building production systems with Java and working across a range of backend and cloud technologies, I’ve developed a healthy habit of approaching new frameworks with both curiosity and scepticism. That mindset guided me when I recently upskilled in Ruby on Rails for a potential client project — and the experience turned out to be more interesting than I’d anticipated.
@@ -55,7 +55,44 @@ Scaffolding and boilerplate were handled effortlessly, leaving me free to focus 
 At the same time, it hides a significant amount of complexity. You can make rapid progress without fully understanding the underlying architecture or design patterns at play, which is both empowering and dangerous. That hidden depth only really reveals itself when you need to debug something subtle or push the framework beyond its happy path.
 And while Rails is undeniably friendly to beginners, it can feel surprisingly opinionated to experienced developers. Getting started is easy, but stepping outside the rails — quite literally — can feel like pushing against the framework rather than collaborating with it. That tension is where most of my friction lived.
 
-## Comparing SpringBoot and Rails
+## Key Insights
+One of the most immediately striking aspects of Rails is how much productivity it unlocks through conventions and tooling. The framework’s generators, backed by Active Record, remove a significant amount of boilerplate that developers in other ecosystems are often accustomed to managing explicitly.
+For example, a single command:
+
+`generate model Product name:string`
+
+creates a model, a corresponding test file, a database migration, schema updates, and the necessary directory if they do not already exist. 
+It also lays the groundwork for standard CRUD operations. This level of automation can feel surprising at first, particularly coming from environments where each of these steps must be wired together manually.
+Active Record, Rails’ ORM, plays a role similar to Hibernate or JPA in the Java ecosystem, but with far less visible configuration. 
+Relational modelling can be expressed in a small amount of highly readable code:
+
+``` 
+class Product < ApplicationRecord
+  belongs_to :user
+  has_many :line_items
+  has_one :profile
+  has_many :orders, through: :line_items
+end
+```
+
+Despite its simplicity, this definition establishes associations, infers foreign keys, generates migrations, and enables cascading deletes. SQL is abstracted away entirely unless you explicitly choose to drop down to it. The emphasis on convention means configuration becomes largely implicit, shifting focus away from setup and towards domain modelling.
+Associations are where Rails feels particularly expressive. Relationships such as belongs_to, has_one, has_many, and has_many :through read almost declaratively.
+
+Rails transparently manages the primary and foreign key relationships behind the scenes, while the database ensures data integrity. Features such as 
+`dependent: :destroy` stood out to me, as they allow cascading behaviour to be expressed clearly in code without introducing additional complexity at the database layer.
+
+Rails also provides a powerful interactive environment through the rails console, which loads the full application context and database connection. It can be used to query, inspect, and manipulate application state in real time:
+
+```
+Product.firstProduct.create(name: "Cupcake", stock: 12)
+Product.last.destroy
+```
+
+This eliminates the need for ad‑hoc scripts or temporary endpoints during development and debugging. The feedback loop is fast, direct, and tightly integrated with the application itself.
+
+Debugging was initially an area where Rails felt unfamiliar. The documentation often emphasises logging and console‑based inspection, which can feel limiting if you are used to IDE‑driven debugging workflows. However, with the addition of VS Code Ruby and Rails debugging extensions, the experience becomes much more aligned with what developers expect from mature IDE tooling. Breakpoints, variable inspection, step‑through debugging, and thread visibility are all available, with the added benefit of the Rails console running alongside the debugger.
+
+### Comparing SpringBoot and Rails
 
 When working with Ruby on Rails felt both familiar and disorienting in equal measure. The high‑level architectural concepts — MVC, layered responsibilities, and REST‑centric design — are recognisable, but the way Rails guides you towards those outcomes is markedly different.
 The most immediate difference was how much Rails removes up‑front decision‑making. As a Spring developer, I’m used to explicitly defining configuration, wiring dependencies, and making architectural intent visible through annotations and structure. Rails, by contrast, leans heavily into convention over configuration. At first, this felt uncomfortable — almost like important details were being hidden. Over time, though, it became clear that Rails isn’t removing complexity so much as delaying it until it’s actually needed.
@@ -71,10 +108,6 @@ The framework, tooling, and ecosystem are optimised to get something working end
 | Philosophy           | Convention over configuration | Heavy configuration, annotations everywhere |
 | Developer experience | Fast prototyping              | Enterprise robustness                       |
 | Ideal for            | Rapid CRUD apps               | Complex enterprise architectures            |
-
-
-## Key Insights
-
 
 ## Final Thoughts
 
