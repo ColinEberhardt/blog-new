@@ -1,16 +1,15 @@
 ---
 title: Ruby on Rails- A Developer’s Perspective
-date: 2025-10-20 09:00:00 Z
+date: 2026-04-20 09:00:00 Z
 categories:
-- ATech
+- Technology
 tags:
 - Technology
 - Software Development
 - Ruby on Rails
 - Web Development
 - Rapid Development
-summary: Rebuilding a carbon emissions calculator with  vs Copilot, where agentic
-  AI speeds delivery and where human engineering remains essential.
+summary: I recently picked up Ruby on Rails for a client project, and it turned out to be a more enjoyable experience than I had expected.
 author: mthomas
 image: 
 ---
