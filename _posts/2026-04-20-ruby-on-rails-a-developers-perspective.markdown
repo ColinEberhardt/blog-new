@@ -122,7 +122,10 @@ The framework, tooling, and ecosystem are optimised to get something working end
 
 ## Final Thoughts
 
-In the end, my time with Ruby on Rails was brief but instructive. Just as I was getting comfortable, the client project I’d been preparing for failed to materialise, and my short Rails experiment came to an abrupt end. I found myself back in familiar Java territory, my detour complete.
-Whether I’ll return to Ruby on Rails one day, or whether it remains the framework that got away, I’ll leave to fate. But one thing I’ll leave you with is this:
-Rails may not always be love at first sight, but it’s undeniably efficient. It feels like the older, wiser framework in the room — not flashy, not loud, probably not lining up to give a TED talk to stay relevant — but still deeply competent. Quietly generating files, enforcing conventions, and occasionally making even the sceptics pause and think:
+Just as I was getting comfortable, the client project I’d been preparing for failed to materialise, and my short Rails experiment came to an abrupt end. I found myself back in familiar Java territory, my detour complete.
+
+Whether I’ll return to Ruby on Rails one day, or whether it remains the framework that got away, I don’t know. But one thing I’ll leave you with is this:
+
+Rails may not always be love at first sight, but it’s undeniably efficient. It feels like the older, wiser framework in the room — not flashy, not loud, probably not lining up to give a TED Talk to stay relevant — but still deeply competent. 
+Quietly generating files, enforcing conventions, and occasionally making even the sceptics pause and think:
 “Okay… that was actually pretty cool.”
