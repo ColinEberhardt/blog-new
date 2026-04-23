@@ -69,9 +69,9 @@ That tension is what makes Rails such a paradox — and, oddly, a delightful one
 One of the most immediately striking aspects of Rails is how much productivity it unlocks through conventions and tooling. The framework’s generators, backed by Active Record, remove a significant amount of boilerplate.
 For example, a single command:
 
-```shell
+~~~~shell
 generate model Product name:string
-```
+~~~~
 
 creates a model, a corresponding test file, a database migration, schema updates, and the necessary directory if they do not already exist. It also lays the groundwork for standard CRUD operations. This level of automation can feel surprising at first, particularly coming from environments where each of these steps must be wired together manually.
 
@@ -83,14 +83,14 @@ Associations are where Rails feels particularly expressive. Relationships such a
 
 Relational modelling can be expressed in a small amount of highly readable code:
 
-```ruby
+~~~~ruby
 class Product < ApplicationRecord
   belongs_to :user
   has_many :line_items
   has_one :profile
   has_many :orders, through: :line_items
 end
-```
+~~~~
 
 Despite its simplicity, this definition establishes associations, infers foreign keys and generates migrations. SQL is abstracted away entirely unless you explicitly choose to drop down to it. The emphasis on convention means configuration becomes largely implicit, shifting focus away from setup and towards domain modelling.
 
@@ -100,10 +100,10 @@ Features such as
 #### Rails Console and Debugging
 Rails also provides a powerful interactive environment through the Rails console, which loads the full application context and database connection. It can be used to query, inspect, and manipulate application state in real time:
 
-```shell
+~~~~shell
 Product.firstProduct.create(name: "Cupcake", stock: 12)
 Product.last.destroy
-```
+~~~~
 
 This eliminates the need for ad hoc scripts or temporary endpoints during development and debugging. The feedback loop is fast, direct, and tightly integrated with the application itself.
 
