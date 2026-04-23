@@ -2,7 +2,7 @@
 title: Ruby on Rails - A Developer’s Perspective
 date: 2026-04-20 09:00:00 Z
 categories:
-- Technology
+- Tech
 tags:
 - Technology
 - Software Development
