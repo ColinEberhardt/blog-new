@@ -66,7 +66,7 @@ That tension is what makes Rails such a paradox — and, oddly, a delightful one
 ### Key Insights
 
 #### Generators
-One of the most immediately striking aspects of Rails is how much productivity it unlocks through conventions and tooling. The framework’s generators, backed by Active Record(Rails' ORM), remove a significant amount of boilerplate.
+One of the most immediately striking aspects of Rails is how much productivity it unlocks through conventions and tooling. The framework’s generators, backed by Active Record (Rails' ORM), remove a significant amount of boilerplate.
 Active Record, plays a role similar to Hibernate or JPA in the Java ecosystem, but with far less visible configuration.
 
 For example, a single CLI command:
