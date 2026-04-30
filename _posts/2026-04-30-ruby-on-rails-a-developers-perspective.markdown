@@ -1,6 +1,6 @@
 ---
 title: Ruby on Rails - A Developer’s Perspective
-date: 2026-04-29 09:00:00 Z
+date: 2026-04-30 09:00:00 Z
 categories:
 - Tech
 tags:
@@ -67,7 +67,6 @@ That tension is what makes Rails such a paradox — and, oddly, a delightful one
 
 #### Generators
 One of the most immediately striking aspects of Rails is how much productivity it unlocks through conventions and tooling. The framework’s generators, backed by Active Record (Rails' ORM), remove a significant amount of boilerplate.
-Active Record, plays a role similar to Hibernate or JPA in the Java ecosystem, but with far less visible configuration.
 
 For example, a single CLI command:
 
@@ -76,6 +75,7 @@ generate model Product name:string
 ~~~~
 
 creates a model, a corresponding test file, a database migration, schema updates, and the necessary directory if these do not already exist. It also lays the groundwork for standard CRUD operations. This level of automation can feel surprising at first, particularly coming from environments where each of these steps must be wired together manually.
+It allowed features to be delivered quickly with minimal ceremony.
 
 #### Associations and Data Modelling
 
@@ -87,7 +87,7 @@ Relational modelling can be expressed in a small amount of highly readable code:
 class Product < ApplicationRecord
   belongs_to :user
   has_many :line_items
-  has_one :profile
+  has_one :profile, dependent: :destroy
   has_many :orders, through: :line_items
 end
 ~~~~
@@ -95,7 +95,8 @@ end
 Despite its simplicity, this definition establishes associations, infers foreign keys and generates migrations. SQL is abstracted away entirely unless you explicitly choose to drop down to it. The emphasis on convention means configuration becomes largely implicit, shifting focus away from setup and towards domain modelling.
 
 Features such as 
-`dependent: :destroy` stood out to me, as they allow cascading behaviour to be expressed clearly in code without introducing additional complexity at the database layer.
+`dependent: :destroy` stood out to me. It defines what happens to associated records when the parent record is deleted, allowing cascading behaviour.
+In this example, deleting a product will automatically delete its associated profile, which is a common pattern that would otherwise require manual handling in many frameworks.
 
 #### Rails Console and Debugging
 Rails also provides a powerful interactive environment through the Rails console, which loads the full application context and database connection. It can be used to query, inspect, and manipulate application state in real time:
@@ -113,11 +114,11 @@ The documentation often emphasises logging and console-based inspection for debu
 
 Working with Ruby on Rails felt both familiar and disorienting in equal measure. The high-level architectural concepts — MVC, layered responsibilities, and REST-centric design — are recognisable, but the way Rails guides you towards those outcomes is markedly different.
 
-The most immediate difference was how much Rails removes up-front decision-making. As a Spring developer, I’m used to explicitly defining configuration, wiring dependencies, and making architectural intent visible through annotations and structure. Rails, by contrast, leans heavily into convention over configuration. At first, this felt uncomfortable — almost like important details were being hidden. Over time, though, it became clear that Rails isn’t removing complexity so much as delaying it until it’s actually needed.
+The most immediate difference was how much Rails removes up-front decision-making. As a Spring developer, I’m used to explicitly defining configuration, wiring dependencies, and making architectural intent visible through annotations and structure. Rails, by contrast, leans heavily into convention over configuration. Over time, though, it became clear that Rails isn’t removing complexity so much as delaying it until it’s actually needed.
 
-Active Record was another notable shift. Compared to Hibernate/JPA, it’s far more opinionated and is tightly integrated into the framework. It’s designed to be simple and intuitive for common use cases, but it can feel restrictive when you need to do something unconventional. In contrast, Hibernate/JPA offers more flexibility at the cost of simplicity.
-
-Rails’ ORM significantly reduced boilerplate and allowed features to be delivered quickly with minimal ceremony. The trade-off is that you need to be disciplined in understanding what the framework is doing on your behalf — especially as data access patterns become more complex.
+Active Record was another notable shift. It plays a role similar to Hibernate or JPA in the Java ecosystem, but with far less visible configuration.
+Compared to Hibernate/JPA, it’s far more opinionated and is tightly integrated into the framework. It’s designed to be simple and intuitive for common use cases, but it can feel restrictive when you need to do something unconventional. The trade-off is that you need to be disciplined in understanding what the framework is doing on your behalf — especially as data access patterns become more complex.
+In contrast, Hibernate/JPA offers more flexibility at the cost of simplicity.
 
 The framework, tooling, and ecosystem are optimised to get something working end to end quickly. Compared to Spring Boot, where robustness and explicit configuration reinforce enterprise safety, Rails prioritises momentum. For early-stage development or well-bounded domains, this feels like a genuine advantage rather than a shortcut.
 
