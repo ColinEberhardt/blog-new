@@ -9,7 +9,8 @@ tags:
 - Ruby on Rails
 - Web Development
 - Rapid Development
-summary: I recently picked up Ruby on Rails for a client project, and it turned out to be a more enjoyable experience than I had expected.
+summary: I recently picked up Ruby on Rails for a client project, and it turned out
+  to be a more enjoyable experience than I had expected.
 author: mthomas
 image: 
 ---
