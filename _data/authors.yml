@@ -16,6 +16,7 @@ active-authors:
   - awhitmell
   - bell-jones
   - bheyman
+  - blogan
   - bpritchard
   - bwallis
   - ceberhardt
@@ -82,6 +83,7 @@ active-authors:
   - jwalledge
   - jwhite
   - jwren
+  - jzhou
   - kangel
   - kclark
   - kdavis
@@ -295,6 +297,11 @@ authors:
     twitter-url: "https://twitter.com/e4developer"
     twitter-handle: e4developer
     picture: picture.jpg
+  blogan:
+    name: "Benjamin Logan"
+    author-summary: "Data Engineer at Scott Logic, based in the Glasgow office"
+    picture: blogan.jpg
+    email: blogan@scottlogic.com
   bmacdonald:
     name: "Brendan MacDonald"
     author-summary: "Senior Test Engineer working at Scott Logic based in the Edinburgh office."
@@ -655,6 +662,10 @@ authors:
   jwright:
     author-summary: ""
     name: "John Wright"
+  jzhou:
+    name: "Junde Zhou"
+    author-summary: "I am a software developer at Scott Logic and I joined through the graduate programme in March 2025. I am based in the Newcastle office. I'm interested in all things to do with AI and cloud. Outside of work, I like to go up hills."
+    picture: picture.jpg
   kclark:
     author-summary: "Test Engineer at Scott Logic born, raised and based in Edinburgh. Gym goer, Book reader, Knitter extraordinaire."
     name: "Kira Clark"
@@ -1482,11 +1493,6 @@ authors:
     author-summary: "I am a Graduate Software Developer at Scott Logic. "
     twitter-handle: null
     picture: profile-pic-square.jpg
-  cfreestone:
-    name: "Charlie Freestone"
-    author-summary: "I am a Senior Test Engineer at Scott Logic. "
-    twitter-handle: null
-    picture: profile-pic.png
   jleftley:
     name: "James Leftley"
     author-summary: "I am a Lead Developer at Scott Logic."
