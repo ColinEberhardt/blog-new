@@ -1,6 +1,6 @@
 ---
 title: Ruby on Rails - A Developer’s Perspective
-date: 2026-05-18 09:00:00 Z
+date: 2026-05-28 09:00:00 Z
 categories:
 - Tech
 tags:
