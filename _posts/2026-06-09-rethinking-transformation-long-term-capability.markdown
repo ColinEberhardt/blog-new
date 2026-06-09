@@ -11,6 +11,11 @@ tags:
 - programme delivery
 - digital transformation
 - programme funding
+summary: "‘Digital transformation’ is used so widely that it risks meaning everything
+  and nothing. In this blog, I explore why how we define transformation shapes how
+  it’s funded and delivered, why treating it as separate from business as usual creates
+  costly distortions, and how a project‑led, cost‑cutting mindset often undermines
+  the very change organisations are trying to achieve."
 author: sangell
 ---
 
