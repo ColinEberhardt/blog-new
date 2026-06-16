@@ -4,23 +4,31 @@ date: 2026-06-16 13:09:00 Z
 author: sangell
 ---
 
-In my recent blog post on Rethinking 'Transformation': From projects to long-term capability, I asserted that how we define transformation shapes how it’s funded and delivered. In my opinion, treating transformation as separate from business as usual creates costly distortions, and results in a project‑led, cost‑cutting mindset that often undermines the very change organisations are trying to achieve.
+In my recent blog post on [Rethinking 'Transformation': From projects to long-term capability](https://blog.scottlogic.com/2026/06/09/rethinking-transformation-long-term-capability.html), I asserted that how we define transformation shapes how it’s funded and delivered. In my opinion, treating transformation as separate from business as usual creates costly distortions, and results in a project‑led, cost‑cutting mindset that often undermines the very change organisations are trying to achieve.
 
 In this post, I'm going to set out what good looks like, and the lessons we can all learn to make good transformations the norm rather than the exception.
 
+## Lessons from the sharp end
+
 The [Bank of England's core ledger replacement](https://www.nao.org.uk/press-releases/bank-of-england-successfully-navigates-complex-modernisation-of-uks-critical-payment-system/) is often cited as an example of long-term, disciplined programme delivery. It is worth being precise about what it was, and what it was not.
 
-It was not, strictly speaking, a transformation programme in the sense we have been using. The Bank did not fundamentally change the way it operated as a result of it. What it did was replace a decades-old system that had become a critical risk, with one that was fit for purpose. We consider that a replatforming: a vital, complex, high-stakes, and technically demanding piece of work, but one aimed at maintaining existing capabilities on better foundations rather than creating new ones.
+It was not, strictly speaking, a transformation programme in the sense of my working definition. The Bank did not fundamentally change the way it operated as a result of it. What it did instead was replace a decades-old system that had become a critical risk, with one that was fit for purpose. We consider that a replatforming: a vital, complex, high-stakes, and technically demanding piece of work, but one aimed at maintaining existing capabilities on better foundations, rather than creating new ones.
 
-The distinction matters because it is easy to look at a nine-year programme and conclude that transformation just takes a long time. The more accurate conclusion is that foundational systems replacement takes a long time — and that conflating it with transformation creates unrealistic expectations in both directions.
+The distinction matters because it is easy to look at a nine-year programme and conclude that transformation just takes a long time. The more accurate conclusion is that *foundational systems replacement* takes a long time – and that conflating it with transformation creates unrealistic expectations in both directions.
 
 That said, the way the programme was run contains lessons that apply directly to genuine transformation. A few stand out.
+
+### Confront the biggest risks early
 
 The first is the decision to confront the biggest risk early. Rather than following a pure agile approach and building an MVP, the BOE recognised that the key risk in the initiative was platform selection and so entered into a ‘competitive dialogue’ with the suppliers bidding on the project. This involved each bidder designing and building a simplified payment system to test their technical approach and responsiveness to customer needs — effectively forcing a resolution of any questions that, if left unresolved, could have derailed everything. This is the opposite of the business case logic that encourages programmes to demonstrate early wins and push difficult decisions toward the back end. A programme where all the hard stuff sits in year four is a programme where the hard stuff never quite gets done.
 
 It is important to note that while Accenture was chosen as the winning bidder, both of the unsuccessful bidders were compensated for their time and effort, recognising that their efforts, along with the successful bidder’s, contributed to a refined final design.
 
+### Ensure sponsors truly understand the terrain
+
 The second lesson is the role of the executive sponsor. Programmes that work well tend to have a senior sponsor who genuinely understands the risk landscape; to borrow my earlier analogy, they understand that nine women cannot make a baby in a month. A sponsor who understands the technical and organisational complexity involved enables teams to make difficult calls, to absorb short-term pain in service of long-term outcomes, and to resist the pressure to show progress by doing the easy things first.
+
+**Don’t mistake slow progress for failure**
 
 The third is that not everything that looks slow from the outside is going wrong. Long periods of groundwork — platform design, architecture decisions, vendor selection, integration planning — do not produce the kind of visible progress that stakeholders and ministers tend to want to see. Programmes that are forced to manufacture visible milestones to satisfy governance requirements often end up making commitments that constrain their later choices.
 
