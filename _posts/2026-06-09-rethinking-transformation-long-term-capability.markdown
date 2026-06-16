@@ -79,4 +79,4 @@ The problem is what this does to the people who are supposed to make the change 
 
 Transformation sold as cost-cutting tends to produce exactly the kind of short-term, box-ticking behaviour that real transformation requires you to move away from.
 
-OK, so what does good look like? That will be the subject of my next blog post.
+OK, so what does good look like? That will be [the subject of my next blog post](https://blog.scottlogic.com/2026/06/16/What-a-good-transformation-looks-like.html).
