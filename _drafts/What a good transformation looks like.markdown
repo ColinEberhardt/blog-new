@@ -15,12 +15,16 @@ tags:
 - project management
 - programme sponsorship
 - project funding
+summary: Transformation is often framed as a time‑bound programme, but in this post,
+  I argue that lasting change depends on how work is structured, funded and led in
+  practice. Along the way, I draw lessons from the Bank of England’s core ledger replacement
+  programme and make the case for funding long‑term capability, not one‑off projects.
 author: sangell
 ---
 
 In my recent blog post on [Rethinking 'Transformation': From projects to long-term capability](https://blog.scottlogic.com/2026/06/09/rethinking-transformation-long-term-capability.html), I asserted that how we define transformation shapes how it’s funded and delivered. In my opinion, treating transformation as separate from business as usual creates costly distortions, and results in a project‑led, cost‑cutting mindset that often undermines the very change organisations are trying to achieve.
 
-In this post, I'm going to set out what good looks like, and the lessons we can all learn to make good transformations the norm rather than the exception. I'll begin by looking at one of the successful programmes that was referenced at a recent roundtable I attended, hosted by the Institute for Government in partnership with Scott Logic.
+In this post, I'm going to set out what 'good' looks like, and the lessons we can all learn to make good transformations the norm rather than the exception. I'll begin by looking at one of the successful programmes that was referenced at a recent roundtable I attended, hosted by the Institute for Government in partnership with Scott Logic.
 
 ## Lessons from the sharp end
 
@@ -64,7 +68,7 @@ It also means being honest about what success looks like for an external partner
 
 The theme of these two blog posts is that transformation is something that needs to be rethought. The rethink I am proposing is not complicated, but it does require a shift in how organisations frame the question.
 
-**Stop asking: **when does the transformation programme end?
+**Stop asking:** when does the transformation programme end?
 
 **Start asking:** how do we build the capability to keep improving?
 
