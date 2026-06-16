@@ -34,7 +34,9 @@ That said, the way the programme was run contains lessons that apply directly to
 
 ### Confront the biggest risks early
 
-The first is the decision to confront the biggest risk early. Rather than following a pure agile approach and building an MVP, the BOE recognised that the key risk in the initiative was platform selection and so entered into a ‘competitive dialogue’ with the suppliers bidding on the project. This involved each bidder designing and building a simplified payment system to test their technical approach and responsiveness to customer needs — effectively forcing a resolution of any questions that, if left unresolved, could have derailed everything. This is the opposite of the business case logic that encourages programmes to demonstrate early wins and push difficult decisions toward the back end. A programme where all the hard stuff sits in year four is a programme where the hard stuff never quite gets done.
+The first is the decision to confront the biggest risk early. Rather than following a pure agile approach and building an MVP, the BoE recognised that the key risk in the initiative was platform selection and so entered into a ‘competitive dialogue’ with the suppliers bidding on the project. This involved each bidder designing and building a simplified payment system to test their technical approach and responsiveness to customer needs – effectively forcing a resolution of any questions that, if left unresolved, could have derailed everything. 
+
+This is the opposite of the business case logic that encourages programmes to demonstrate early wins and push difficult decisions towards the back end. A programme where all the hard stuff sits in year four is a programme where the hard stuff never quite gets done.
 
 It is important to note that while Accenture was chosen as the winning bidder, both of the unsuccessful bidders were compensated for their time and effort, recognising that their efforts, along with the successful bidder’s, contributed to a refined final design.
 
@@ -42,7 +44,7 @@ It is important to note that while Accenture was chosen as the winning bidder, b
 
 The second lesson is the role of the executive sponsor. Programmes that work well tend to have a senior sponsor who genuinely understands the risk landscape; to borrow my earlier analogy, they understand that nine women cannot make a baby in a month. A sponsor who understands the technical and organisational complexity involved enables teams to make difficult calls, to absorb short-term pain in service of long-term outcomes, and to resist the pressure to show progress by doing the easy things first.
 
-**Don’t mistake slow progress for failure**
+### **Don’t mistake slow progress for failure**
 
 The third is that not everything that looks slow from the outside is going wrong. Long periods of groundwork — platform design, architecture decisions, vendor selection, integration planning — do not produce the kind of visible progress that stakeholders and ministers tend to want to see. Programmes that are forced to manufacture visible milestones to satisfy governance requirements often end up making commitments that constrain their later choices.
 
