@@ -1,6 +1,20 @@
 ---
 title: What a good transformation looks like
 date: 2026-06-16 13:09:00 Z
+categories:
+- Delivery
+tags:
+- digital transformation
+- transformation
+- government
+- ''
+- public sector
+- risk management
+- stakeholder
+- programme management
+- project management
+- programme sponsorship
+- project funding
 author: sangell
 ---
 
