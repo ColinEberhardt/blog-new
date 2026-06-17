@@ -1,5 +1,5 @@
 ---
-title: Ponytail, YAGNI, and the Problem with Prompt Benchmarks
+title: Ponytail? YAGNI!
 date: 2026-06-16 16:27:00 Z
 categories:
 - Artificial Intelligence
