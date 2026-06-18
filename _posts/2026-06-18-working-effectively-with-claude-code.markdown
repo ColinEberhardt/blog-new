@@ -5,7 +5,10 @@ categories:
 - Artificial Intelligence
 tags:
 - Artificial Intelligence
-summary: After months working with GitHub Copilot in VS Code and recently switching to Claude Code, the transition turned out to be more involved than expected. Claude Code operates differently and in ways that take time to adjust to. In this post, I share my experiences and tips drawn from that experience.
+summary: After months working with GitHub Copilot in VS Code and recently switching
+  to Claude Code, the transition turned out to be more involved than expected. Claude
+  Code operates differently and in ways that take time to adjust to. In this post,
+  I share my experiences and tips drawn from that experience.
 author: alaws
 ---
 
