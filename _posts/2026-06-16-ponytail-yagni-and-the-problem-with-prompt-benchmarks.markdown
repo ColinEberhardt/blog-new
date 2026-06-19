@@ -23,6 +23,8 @@ How can a project this simple, this unproven and fragile gain so many stars and 
 
 I’ll try to answer that question and explain why I spent time trying to work out whether this project delivered value or was just hype. Whether it is hype or not is subjective, but my evidence doesn’t support the scale of the attention it has received.
 
+**UPDATE:** After reading the results of this blog post, the Ponytail author responded by both expanding and fixing their benchmarks and revising their claims. I am really happy that they responded positively to the criticism - you can [read more from them on LinkedIn](https://www.linkedin.com/posts/dietrich-gebert-b3a314a9_opensource-softwareengineering-ai-activity-7473408706232381440-GTYk). 
+
 ## Why do people want a “Ponytail”?
 
 Whether you like it or not, we are increasingly moving to a world where a significant amount of software engineering involves prompting models. Whether you are using sophisticated agentic harnesses, or just one-shotting code, your productivity depends on both your ability to describe your goals to the model and your understanding of its strengths and weaknesses.
