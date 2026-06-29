@@ -7,7 +7,11 @@ tags:
 - Artificial Intelligence
 - AI
 - Agentic AI
-summary: This satirical post defines Agentrification as the sociotechnical phenomenon in which the \"original character\" of a human-centric space, platform, or profession is systematically displaced, optimised, or rendered obsolete by the arrival of autonomous AI agents, i.e. digital gentrification. It introduces the Agentrification Index (AIx) as a diagnostic tool to quantify this structural decay.
+summary: This satirical post defines Agentrification as the sociotechnical phenomenon
+  in which the \"original character\" of a human-centric space, platform, or profession
+  is systematically displaced, optimised, or rendered obsolete by the arrival of autonomous
+  AI agents, i.e. digital gentrification. It introduces the Agentrification Index
+  (AIx) as a diagnostic tool to quantify this structural decay.
 author: godds
 ---
 
