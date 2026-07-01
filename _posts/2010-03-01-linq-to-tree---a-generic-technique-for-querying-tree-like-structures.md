@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Presents a generic technique for applying LINQ to any tree-like data structure, inspired by LINQ to XML, using a simple adapter to expose parent/child/sibling axes as queryable sequences. Demonstrated with examples including LINQ to WPF VisualTree, LINQ to WinForms, and LINQ to Filesystem.
+summary: Presents a generic technique for applying LINQ to any tree-like data structure,
+  inspired by LINQ to XML, using a simple adapter to expose parent/child/sibling axes
+  as queryable sequences. Demonstrated with examples including LINQ to WPF VisualTree,
+  LINQ to WinForms, and LINQ to Filesystem.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Compares Silverlight and KnockoutJS by implementing the same quiz application with both frameworks, examining view models, data binding, templating, commands, and data handling side by side. A practical guide for Silverlight developers looking to leverage their existing MVVM knowledge when moving to JavaScript development.
+summary: Compares Silverlight and KnockoutJS by implementing the same quiz application
+  with both frameworks, examining view models, data binding, templating, commands,
+  and data handling side by side. A practical guide for Silverlight developers looking
+  to leverage their existing MVVM knowledge when moving to JavaScript development.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

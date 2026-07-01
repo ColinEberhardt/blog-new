@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: An in-depth guide to building a Jump List control for Windows Phone 7 that lets users rapidly navigate long lists by selecting from a pop-up category grid. The article covers custom control creation, performance considerations, and the MVVM pattern for mobile UI development.
+summary: An in-depth guide to building a Jump List control for Windows Phone 7 that
+  lets users rapidly navigate long lists by selecting from a pop-up category grid.
+  The article covers custom control creation, performance considerations, and the
+  MVVM pattern for mobile UI development.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

@@ -8,7 +8,11 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Explores the full range of object creation patterns in JavaScript — from object literals and constructor functions through to prototypal inheritance and the module pattern — to reveal how the language truly works beneath its familiar-looking syntax. Aimed at C# and Java developers who want to move beyond cargo-cult patterns and genuinely understand JavaScript's prototype-based object model.
+summary: Explores the full range of object creation patterns in JavaScript — from
+  object literals and constructor functions through to prototypal inheritance and
+  the module pattern — to reveal how the language truly works beneath its familiar-looking
+  syntax. Aimed at C# and Java developers who want to move beyond cargo-cult patterns
+  and genuinely understand JavaScript's prototype-based object model.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

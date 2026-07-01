@@ -8,7 +8,11 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Accompanies the Simple Logging Facade (SLF) open-source framework with practical guidance on when, what, and how to log effectively throughout an application's lifecycle. The article argues that logging deserves the same structured, first-principles thinking as unit testing, and provides concrete guidelines for log levels and useful log content.
+summary: Accompanies the Simple Logging Facade (SLF) open-source framework with practical
+  guidance on when, what, and how to log effectively throughout an application's lifecycle.
+  The article argues that logging deserves the same structured, first-principles thinking
+  as unit testing, and provides concrete guidelines for log levels and useful log
+  content.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

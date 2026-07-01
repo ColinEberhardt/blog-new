@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: A direct side-by-side comparison of building the same custom control — the Bullet Graph, a cleaner alternative to gauges for business dashboards — in both WPF and Windows Forms. The article highlights fundamental differences in the two programming models for control development in a Line of Business context.
+summary: A direct side-by-side comparison of building the same custom control — the
+  Bullet Graph, a cleaner alternative to gauges for business dashboards — in both
+  WPF and Windows Forms. The article highlights fundamental differences in the two
+  programming models for control development in a Line of Business context.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes the development of a Reversi game for Windows 8 using MVVM, covering UI layout across multiple screen states, game logic using delegates and LINQ, and a computer opponent built with the minimax algorithm. The article also covers practical topics such as UI design with GIMP and the Windows 8 app lifecycle.
+summary: Describes the development of a Reversi game for Windows 8 using MVVM, covering
+  UI layout across multiple screen states, game logic using delegates and LINQ, and
+  a computer opponent built with the minimax algorithm. The article also covers practical
+  topics such as UI design with GIMP and the Windows 8 app lifecycle.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

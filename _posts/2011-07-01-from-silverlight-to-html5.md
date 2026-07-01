@@ -9,7 +9,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Documents the experience of re-implementing a Silverlight Windows Phone 7 Jump List control in HTML5, CSS3, and JavaScript to run cross-platform on mobile browsers. Rather than a feature-by-feature comparison, the focus is on the difference in development approach and general feel between the two technologies.
+summary: Documents the experience of re-implementing a Silverlight Windows Phone 7
+  Jump List control in HTML5, CSS3, and JavaScript to run cross-platform on mobile
+  browsers. Rather than a feature-by-feature comparison, the focus is on the difference
+  in development approach and general feel between the two technologies.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

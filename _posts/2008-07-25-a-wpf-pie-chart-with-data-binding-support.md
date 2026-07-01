@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: This article describes the development of a WPF pie chart control that fully supports data binding, allowing it to bind directly to your data objects rather than requiring a separate model. Along the way it covers custom shapes, dependency property inheritance, and the nuances of tooltips and data binding in WPF.
+summary: This article describes the development of a WPF pie chart control that fully
+  supports data binding, allowing it to bind directly to your data objects rather
+  than requiring a separate model. Along the way it covers custom shapes, dependency
+  property inheritance, and the nuances of tooltips and data binding in WPF.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

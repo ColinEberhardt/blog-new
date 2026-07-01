@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes the development of a cross-platform HTML5 mobile app for searching UK property listings, using Knockout, jQuery Mobile, and Apache Cordova (PhoneGap). The article covers MVVM architecture in JavaScript, PhoneGap Build for iOS deployment without a Mac, and a critical look at the resulting user experience.
+summary: Describes the development of a cross-platform HTML5 mobile app for searching
+  UK property listings, using Knockout, jQuery Mobile, and Apache Cordova (PhoneGap).
+  The article covers MVVM architecture in JavaScript, PhoneGap Build for iOS deployment
+  without a Mac, and a critical look at the resulting user experience.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

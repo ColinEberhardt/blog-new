@@ -10,7 +10,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Presents a T4 template that generates the verbose boilerplate required for WPF and Silverlight dependency property declarations from a simple XML description file, with no third-party tools needed. The technique integrates directly into Visual Studio and eliminates a common source of error-prone repetition in XAML-based development.
+summary: Presents a T4 template that generates the verbose boilerplate required for
+  WPF and Silverlight dependency property declarations from a simple XML description
+  file, with no third-party tools needed. The technique integrates directly into Visual
+  Studio and eliminates a common source of error-prone repetition in XAML-based development.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

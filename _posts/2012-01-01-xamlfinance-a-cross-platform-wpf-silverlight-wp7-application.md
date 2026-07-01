@@ -9,7 +9,11 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes the development of XAMLFinance, a financial charting application built to run across WPF, Silverlight, and Windows Phone 7 from a shared XAML and C# codebase. The article provides a detailed guide to cross-platform XAML development, covering API differences, resolution techniques, and architectural patterns that maximise code sharing.
+summary: Describes the development of XAMLFinance, a financial charting application
+  built to run across WPF, Silverlight, and Windows Phone 7 from a shared XAML and
+  C# codebase. The article provides a detailed guide to cross-platform XAML development,
+  covering API differences, resolution techniques, and architectural patterns that
+  maximise code sharing.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

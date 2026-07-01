@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: A run-tracking app for Windows Phone 8 built in just 100 lines of code, showcasing the new map control, background location tracking, 3D pitch/heading, and live tiles. It demonstrates how much can be achieved within tight code constraints using the WP8 SDK.
+summary: A run-tracking app for Windows Phone 8 built in just 100 lines of code, showcasing
+  the new map control, background location tracking, 3D pitch/heading, and live tiles.
+  It demonstrates how much can be achieved within tight code constraints using the
+  WP8 SDK.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

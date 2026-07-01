@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes how to add Excel-style auto-filter functionality to the WPF ListView control, allowing users to filter rows via dropdown menus on each column header. The article covers the challenges of customising the ListView's complex visual tree and implementing filter logic with data binding.
+summary: Describes how to add Excel-style auto-filter functionality to the WPF ListView
+  control, allowing users to filter rows via dropdown menus on each column header.
+  The article covers the challenges of customising the ListView's complex visual tree
+  and implementing filter logic with data binding.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

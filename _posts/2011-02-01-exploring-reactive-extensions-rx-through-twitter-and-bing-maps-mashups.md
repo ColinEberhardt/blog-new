@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Introduces the Reactive Extensions (Rx) library through progressively complex Silverlight examples, culminating in a Twitter/Bing Maps mashup that plots UK snowfall from tweets. The article shows how Rx provides a consistent, LINQ-like model for composing asynchronous events and web service calls.
+summary: Introduces the Reactive Extensions (Rx) library through progressively complex
+  Silverlight examples, culminating in a Twitter/Bing Maps mashup that plots UK snowfall
+  from tweets. The article shows how Rx provides a consistent, LINQ-like model for
+  composing asynchronous events and web service calls.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

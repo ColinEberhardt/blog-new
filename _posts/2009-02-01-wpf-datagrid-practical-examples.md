@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Provides a collection of practical examples for the then-newly released WPF DataGrid control, covering common scenarios including binding to datasets, custom column types, row validation, editing, and styling. Written when documentation was scarce, it serves as a hands-on guide for developers adopting the WPF Toolkit DataGrid.
+summary: Provides a collection of practical examples for the then-newly released WPF
+  DataGrid control, covering common scenarios including binding to datasets, custom
+  column types, row validation, editing, and styling. Written when documentation was
+  scarce, it serves as a hands-on guide for developers adopting the WPF Toolkit DataGrid.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

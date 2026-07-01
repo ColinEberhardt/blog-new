@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes a mechanism for automating code snippet generation with T4 templates, letting developers declare snippet parameters via attributes instead of writing boilerplate by hand. The approach extends earlier work on dependency property generation to support arbitrary code snippets with a concise, declarative style.
+summary: Describes a mechanism for automating code snippet generation with T4 templates,
+  letting developers declare snippet parameters via attributes instead of writing
+  boilerplate by hand. The approach extends earlier work on dependency property generation
+  to support arbitrary code snippets with a concise, declarative style.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

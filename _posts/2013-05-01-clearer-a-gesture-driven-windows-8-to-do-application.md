@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Documents the experience of porting a gesture-driven Windows Phone to-do app to Windows 8, covering both the challenges and new platform opportunities such as live tiles, search contracts, and snapped view. It provides an honest, detailed account of the transition for developers familiar with Windows Phone.
+summary: Documents the experience of porting a gesture-driven Windows Phone to-do
+  app to Windows 8, covering both the challenges and new platform opportunities such
+  as live tiles, search contracts, and snapped view. It provides an honest, detailed
+  account of the transition for developers familiar with Windows Phone.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

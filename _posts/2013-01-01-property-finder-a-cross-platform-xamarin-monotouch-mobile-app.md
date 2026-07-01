@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Re-implements the same Property Finder application using Xamarin MonoTouch to share a C# codebase between Windows Phone and iOS while delivering fully native UIs on both platforms. Compared to the earlier HTML5 approach, the Xamarin version achieves similar code sharing with a no-compromises, native user experience.
+summary: Re-implements the same Property Finder application using Xamarin MonoTouch
+  to share a C# codebase between Windows Phone and iOS while delivering fully native
+  UIs on both platforms. Compared to the earlier HTML5 approach, the Xamarin version
+  achieves similar code sharing with a no-compromises, native user experience.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

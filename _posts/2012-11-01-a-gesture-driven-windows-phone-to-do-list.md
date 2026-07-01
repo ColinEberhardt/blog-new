@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: A Windows Phone to-do list application that replaces all buttons and checkboxes with gestures — swipes, pinches, and pull-to-add — inspired by the iPhone app Clear. The article walks through implementing each gesture recogniser using the Windows Phone toolkit.
+summary: A Windows Phone to-do list application that replaces all buttons and checkboxes
+  with gestures — swipes, pinches, and pull-to-add — inspired by the iPhone app Clear.
+  The article walks through implementing each gesture recogniser using the Windows
+  Phone toolkit.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*

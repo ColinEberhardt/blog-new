@@ -8,7 +8,10 @@ tags:
 author: ceberhardt
 layout: default_post
 source: codeproject
-summary: Describes the creation of a generic Silverlight control for visualising relationships between nodes as a circular graph, originally developed to plot the relationships between Stack Overflow tags. The article covers graph layout, the Silverlight graphics API, and clustering to reveal natural groupings in connected data.
+summary: Describes the creation of a generic Silverlight control for visualising relationships
+  between nodes as a circular graph, originally developed to plot the relationships
+  between Stack Overflow tags. The article covers graph layout, the Silverlight graphics
+  API, and clustering to reveal natural groupings in connected data.
 ---
 
 *This article was originally published on CodeProject, which has since shut down.*
