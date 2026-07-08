@@ -28,7 +28,7 @@ The key parts we knew we needed from the outset were:
 
 1. The model  
 2. How and where to run the model  
-3. The agent software
+3. The coding agent software
 
 ## Model
 
