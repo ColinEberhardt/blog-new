@@ -1,9 +1,13 @@
 ---
-title: "Choosing the right tool safety approach for coding agents"
+title: Choosing the right tool safety approach for coding agents
 date: 2026-07-15 12:00:00 Z
 categories:
 - Artificial Intelligence
-summary: "In coding agents, the trio of: models, runtimes (e.g. Claude Code), and tools (e.g. file write) are what makes agentic software development possible. While they work safely most of the time, the (unsafe) default setup many of us fall into does carry risk. In this post, I’ll explore some things you could consider to make your own setup safer - or at least help you understand its limitations."
+summary: 'In coding agents, the trio of: models, runtimes (e.g. Claude Code), and
+  tools (e.g. file write) are what makes agentic software development possible. While
+  they work safely most of the time, the (unsafe) default setup many of us fall into
+  does carry risk. In this post, I’ll explore some things you could consider to make
+  your own setup safer - or at least help you understand its limitations.'
 author: rwilliams
 ---
 
