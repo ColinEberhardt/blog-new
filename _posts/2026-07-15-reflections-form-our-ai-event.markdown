@@ -1,8 +1,12 @@
 ---
-title: "Adopting Agentic: Talks and Reflections from Our AI Engineering Event"
+title: 'Adopting Agentic: Talks and Reflections from Our AI Engineering Event'
+date: 2026-07-15 00:00:00 Z
 categories:
 - Tech
-summary: A summary of the talks and discussions from our recent event, Adopting Agentic - Software Engineering for the AI Age, exploring the human and organisational impact of AI on our industry. Includes session videos, key quotes and my personal reflections on each presentation.
+summary: A summary of the talks and discussions from our recent event, Adopting Agentic
+  - Software Engineering for the AI Age, exploring the human and organisational impact
+  of AI on our industry. Includes session videos, key quotes and my personal reflections
+  on each presentation.
 author: ceberhardt
 image: "/ceberhardt/assets/adopting-agentic.jpg"
 ---
