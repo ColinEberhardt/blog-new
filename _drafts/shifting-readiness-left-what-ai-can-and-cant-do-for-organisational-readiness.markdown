@@ -11,6 +11,9 @@ tags:
 - objectives
 - organisational readiness
 - Institute for Government
+- organisational goals
+- building shared understanding
+- AI
 summary: Organisational readiness is often treated as a matter of governance, funding
   and delivery structures. In this post, I argue that true readiness is about building
   shared understanding, and explore how AI can help organisations align on goals,
