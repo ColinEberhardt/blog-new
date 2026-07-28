@@ -25,11 +25,11 @@ image:
 
 Ask most people what 'organisational readiness' means and you'll get a fairly consistent answer: governance in place, funding secured, the right team structure, a delivery methodology everyone's signed up to. On paper, readiness looks like a checklist. Tick enough boxes, and you're ready to go.
 
-I don't think that's quite right. And I think the gap between what we assume readiness is and what it actually is turns out to be exactly where AI has something real to offer; not as a shortcut, and not as a fix, but as a way of getting to genuine readiness faster.
+I don't think that's quite right, and I think the gap between what we assume readiness is and what it actually is turns out to be exactly where AI has something real to offer. In my experience, it's a way of getting to genuine readiness faster rather than a shortcut or fix.
 
 My colleague Suzanne recently wrote on this blog about [how loosely the word 'transformation' gets used](https://blog.scottlogic.com/2026/06/09/rethinking-transformation-long-term-capability.html) across government and industry, and how that ambiguity shapes the way change gets funded, governed and delivered. This piece picks up a related thread from the same roundtable discussion, hosted by the Institute for Government in partnership with Scott Logic. You don't need to have read Suzanne's piece for this one to make sense, but the two sit well together.
 
-So, let's be clear about what this isn't. This isn't an “AI will sort it out” piece. If anything, the argument here is closer to the opposite; AI is only useful for readiness once you understand what readiness actually requires. In this article, I want to unpack what organisational readiness really is, what shifting left means in practice, where AI genuinely helps, where human judgement has to stay firmly in charge, and how we think about the ethics, particularly around data, that come with any of this.
+So, let’s be clear about what this isn’t. This is definitely not an 'AI will sort it out' piece. If anything, the argument here is closer to the opposite because AI is only useful for readiness once you understand what readiness actually requires. In this article, I want to unpack what organisational readiness really is, what shifting left means in practice, where AI genuinely helps, where human judgement has to stay firmly in charge, and how we think about the ethics, particularly around data, that come with any of this.
 
 ## Readiness isn't what you think it is
 
