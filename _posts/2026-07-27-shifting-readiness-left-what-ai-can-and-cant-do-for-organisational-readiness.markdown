@@ -23,17 +23,17 @@ author: nmathams
 image: 
 ---
 
-Ask most people what “organisational readiness” means and you'll get a fairly consistent answer: governance in place, funding secured, the right team structure, a delivery methodology everyone's signed up to. On paper, readiness looks like a checklist. Tick enough boxes, and you're ready to go.
+Ask most people what 'organisational readiness' means and you'll get a fairly consistent answer: governance in place, funding secured, the right team structure, a delivery methodology everyone's signed up to. On paper, readiness looks like a checklist. Tick enough boxes, and you're ready to go.
 
 I don't think that's quite right. And I think the gap between what we assume readiness is and what it actually is turns out to be exactly where AI has something real to offer — not as a shortcut, and not as a fix, but as a way of getting to genuine readiness faster.
 
-My colleague Suzanne recently wrote on this blog about [how loosely the word “transformation” gets used](https://blog.scottlogic.com/2026/06/09/rethinking-transformation-long-term-capability.html) across government and industry, and how that ambiguity shapes the way change gets funded, governed and delivered. This piece picks up a related thread from the same roundtable discussion, hosted by the Institute for Government in partnership with Scott Logic — you don't need to have read Suzanne's piece for this one to make sense, but the two sit well together.
+My colleague Suzanne recently wrote on this blog about [how loosely the word 'transformation' gets used](https://blog.scottlogic.com/2026/06/09/rethinking-transformation-long-term-capability.html) across government and industry, and how that ambiguity shapes the way change gets funded, governed and delivered. This piece picks up a related thread from the same roundtable discussion, hosted by the Institute for Government in partnership with Scott Logic — you don't need to have read Suzanne's piece for this one to make sense, but the two sit well together.
 
-So, let's be clear about what this isn't. This isn't an “AI will sort it out” piece. If anything, the argument here is closer to the opposite: AI is only useful for readiness once you understand what readiness actually requires. In this article, I want to unpack what organisational readiness really is, what “shifting it left” means in practice, where AI genuinely helps, where human judgement has to stay firmly in charge, and how we think about the ethics — particularly around data — that come with any of this.
+So, let's be clear about what this isn't. This isn't an “AI will sort it out” piece. If anything, the argument here is closer to the opposite; AI is only useful for readiness once you understand what readiness actually requires. In this article, I want to unpack what organisational readiness really is, what shifting left means in practice, where AI genuinely helps, where human judgement has to stay firmly in charge, and how we think about the ethics — particularly around data — that come with any of this.
 
 ## Readiness isn't what you think it is
 
-The roundtable kept arriving at the same conclusion, from different directions: most transformation failures aren't technology failures. Organisations that fail don't usually fail because they picked the wrong platform or the wrong supplier. They fail because of something further upstream — unclear objectives, fragmented ownership, decisions that never quite get made.
+The roundtable kept arriving at the same conclusion, from different directions. Most transformation failures aren't technology failures. Organisations that fail don't usually fail because they picked the wrong platform or the wrong supplier. They fail because of something further upstream — unclear objectives, fragmented ownership, decisions that never quite get made.
 
 Here's the phrase from that discussion that's stuck with me most: the real constraint isn't what an organisation is capable of building. It's what an organisation is capable of defining, deciding and sustaining.
 
@@ -41,13 +41,13 @@ That's a different claim to the checklist version of readiness. It says readines
 
 One example that came up during the roundtable was a programme simultaneously expected to reduce costs, improve user experience, and reduce appeals and contacts. Every one of those is a reasonable goal. Put together, without anyone explicitly reconciling them, they pull delivery in different directions — effectively working for two or three masters at once. Nobody in the room disagreed with each other, because these things were never discussed. They only discovered they had different objectives once delivery commenced.
 
-That's the pattern worth sitting with: people believe they agree until delivery starts. Different groups can leave the same meeting with different assumptions about the problem, the users, the desired outcome, what success looks like, and what trade-offs are acceptable — and delivery teams usually only discover the gap after significant money and time have already gone in.
+That's the pattern worth sitting with; people believe they agree until delivery starts. Different groups can leave the same meeting with different assumptions about the problem, the users, the desired outcome, what success looks like, and what trade-offs are acceptable — and delivery teams usually only discover the gap after significant money and time have already gone in.
 
 This is why, in my view, readiness is actually the ability to reach genuine, shared understanding about the problem, the outcomes, and the decisions an organisation is prepared to make. And naturally, given that not every organisation formally considers this step in their transformation programmes, the question that this definition of readiness throws up is “how do we get to that shared understanding faster, and more reliably, before we've committed to a direction?”
 
 ## Shifting left, properly understood
 
-“Shift left” gets used a lot in software delivery, usually to mean moving testing or security earlier in the process. I want to use it in a related but distinct sense here: shifting the understanding left, not just the delivery.
+'Shift left' gets used a lot in software delivery, usually to mean moving testing or security earlier in the process. I want to use it in a related but distinct sense here; shifting the understanding left, not just the delivery.
 
 That's not the same as rushing. A pattern that came up repeatedly at the roundtable was that agile gets misunderstood in transformation as permission to skip the hard thinking. Iteration is mistranslated as “we'll figure it out as we go.” In fact, shifting left means making sure that everyone is aligned on the vision and understanding before delivery – but doing it fast enough that it doesn't become its own six-month delay.
 
@@ -67,13 +67,13 @@ And returning to the ability to achieve shared understanding and consensus, we h
 
 None of this works without a human firmly in the loop. AI's role here is assimilation and triage at scale — reading more, faster, and flagging what a person should look at next. It is not decision-making, and it doesn't replace the conversations that actually build shared understanding. Bringing alignment to a mountain of information still takes a person who understands the organisation, the politics, and the people in the room.
 
-This is the guardrail against the reading I'm most keen to avoid: AI doesn't make readiness someone else's problem. It gives the people who own that problem better material to work with, faster.
+This is the guardrail against the reading I'm most keen to avoid; AI doesn't make readiness someone else's problem. It gives the people who own that problem better material to work with, faster.
 
 ## Ethics is a data question, not a jobs question
 
 Understandable caution about AI runs deep in the public sector, and I don't think that caution is misplaced. But in our experience, it's often aimed at the wrong target. We're not advocating using AI to eliminate roles — we're using it to assimilate information at scale, with a person still making every decision that matters.
 
-The sharper ethical question, in this use case, is about data: how information gathered from interviews and stakeholder conversations is used, stored, and represented back. Be clear and specific about that, and most people are comfortable. The times we've seen genuine unease, it's almost always been about ambiguity — not knowing where the boundaries are — rather than opposition to AI itself. Clarity resolves more of this than policy documents do.
+The sharper ethical question, in this use case, is about data; how information gathered from interviews and stakeholder conversations is used, stored, and represented back. Be clear and specific about that, and most people are comfortable. The times we've seen genuine unease, it's almost always been about ambiguity — not knowing where the boundaries are — rather than opposition to AI itself. Clarity resolves more of this than policy documents do.
 
 ## It's a behavioural shift as much as a technical one
 
@@ -87,6 +87,6 @@ Hopefully, I’ve demonstrated how organisational readiness can be thought of in
 
 I’d like to end on the idea that the transformation is often about showing people ‘the other side of the mountain’. During any transformation, the leaders and evangelists will have the vision clearly in their heads and can see the benefits on the other side of the effort. But not everyone shares that vision. That's not a failure of imagination. It's just harder to see from inside the day-to-day pressure of delivery. As a leader in transformation, you have a responsibility not just to align everyone on the vision at the start of the programme, but to bring everyone with you as that vision becomes reality.
 
-Our own research with around 100 developers and testers backed this up: the productivity gains from AI tools are real, but realising them safely depends on training, prompt engineering, structured experimentation, and governance — not just switching a tool on.
+Our own research with around 100 developers and testers backed this up. The productivity gains from AI tools are real, but realising them safely depends on training, prompt engineering, structured experimentation, and governance — not just switching a tool on.
 
 It’s where Scott Logic adds value in our engagements. We aren’t brought in to ‘do your transformation’ any more than AI will fix a problem. What we do is equip organisations to manage their own transformation, including helping organisations identify what the other side of the mountain looks like for them specifically, and mapping a realistic, low-risk way to get there — starting small, testing, and learning as you go, rather than betting everything on a single leap.
